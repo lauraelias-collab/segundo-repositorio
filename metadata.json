@@ -1,0 +1,6 @@
+{
+  "name": "CRM Banho e Tosa",
+  "description": "Sistema de gestão de clientes, agendamento e envio de lembretes personalizados para banho e tosa via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
